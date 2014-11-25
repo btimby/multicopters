@@ -18,6 +18,7 @@ Build
  - 6x Afro 12 amp ESC
  - 6X Turnigy Multistar 1704 brushless outrunners
  - Turnigy Nano-Tech 1300mAh, 3S lipo
+ - Hobbyking 3S battery monitor/alarm
 
 Add-ons
 -------
