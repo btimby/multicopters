@@ -1,6 +1,8 @@
 Spider
 ======
 
+![Image of Spider Hexacopter](spider.jpg)
+
 This is a 3D printed Spider hexacopter frame from Thingiverse.
 
 http://www.thingiverse.com/thing:445749
